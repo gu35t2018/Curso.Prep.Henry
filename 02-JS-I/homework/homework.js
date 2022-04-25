@@ -246,6 +246,7 @@ function esVocal(letra){
   }
 }
 
+//ACTUALIZANDO CON SOLUCIONES DE RICARDO SUAREZ
 
 
 // No modificar nada debajo de esta línea
