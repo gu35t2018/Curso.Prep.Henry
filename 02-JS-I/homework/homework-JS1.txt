@@ -1,0 +1,9 @@
+* VARIABLES: Es la forma en la que almacenamos un valor cualquiera para que podamos usar luego, pueden ser numeros, palabras, etc.
+
+*STRINGS: Es un tipo de dato, permite trabajar con letras, palabras.
+
+*FUNCIONES: Es un conjunto de indicaciones que trabajar de manera independiente, hasta ahora hemos visto funciones que retornan un valor. Tienen argumentos que son los valores que se reciben para hacer las operaciones.
+
+*DECLARACIONES if: El keyword if es una forma en que nuestra funcion o programa se ejecute de acuerdo a los valores que esta tenga, es decir, si es verdadero (true) se ejecutaran algunos sentencias y si es falso (false) se ejecutaran otras.
+
+*VALORES BOOLEANOS: Provienen de la matematica de Boole, nos indican principalmente que hay dos opciones 1 o 0, verdadero o falso. 
