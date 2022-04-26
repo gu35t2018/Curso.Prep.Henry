@@ -1,0 +1,8 @@
+* 'for': es uno de los dos bucles que tiene JavaScript, permite ejecutar un bloque de codigo de forma repetitiva hasta que se cumpla la condicion limite.
+
+- Ahora veremos los operadores logicos: 
+	* '&&': este es el operador "Y" o and 
+		permite evaluar dos condiciones 
+		al mismo tiempo, si ambas son ciertas se devolvera 			TRUE, cualquiera otra opcion devolvera FALSE.
+	* '||': este es el operador "O" o or evalua dos condiciones 			al mismo tiempo, si ambas son falsas, devolvera 			FALSE, si una o ambas es verdadera devolvera TRUE.
+	* '!':	este es el operador no o NOT, funciona 					principalmente para negar un resultado o valor, es 			decir si el valor o resultado es verdadero con el 			operador NOT este valor inicialemente verdadero se 			convertira en falso.
