@@ -1,0 +1,1 @@
+Array: Un array es un conjunto de valores, en javascript pueden ser de numeros, palabras, letras o un combinado de las mismas. A diferencia de la logica comun inician en 0 no en 1.
