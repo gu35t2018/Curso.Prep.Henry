@@ -225,7 +225,7 @@ function mayorACien(array) {
   
   for (var i=0; i<array.length; i++){
     if (array[i] >100){
-      narray2.push(array[i]);
+      narray1.push(array[i]);
     }
   }
   return narray1;
